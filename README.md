@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/82614741/121964608-c9f46880-cd39-11eb-
 ## Testing out the app:
 
 **This code skeleton is just for illustrative purposes, feel free to move stuff around or do anything a different way**
+The front-end should be responsible for displaying the content and functionality, while the backend should do the actual calculations.
 
 First, cd into "api" and run:
 
